@@ -1,0 +1,10 @@
+Speech-to-Text Python Project: 
+1. Requirements 
+   • Python 3.11.1 
+   • speechrecognition library 
+   • pyaudio library 
+2. Installation Steps 
+   • Install SpeechRecognition: 
+     ✓ pip3 install speechrecognition 
+   • Install PyAudio: 
+     ✓ pip3 install pyaudio
